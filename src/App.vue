@@ -22,7 +22,7 @@
         </div>
       </div>
       <footer>
-        Hello, Turing x Alem! © 2022, Nur-Sultan
+        Hello, Turing x alem © 2022, Nur-Sultan --> Astana
       </footer>
     </section>
   </v-app>
